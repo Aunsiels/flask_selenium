@@ -1,0 +1,6 @@
+flask
+pytest
+selenium
+flask-testing
+flask-wtf
+flask-bootstrap
